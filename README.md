@@ -1,3 +1,3 @@
 # Securityhome_Front
 
-android api24
+android application api24
